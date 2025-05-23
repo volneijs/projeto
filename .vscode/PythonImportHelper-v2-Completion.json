@@ -1,0 +1,11 @@
+[
+    {
+        "label": "idade",
+        "kind": 5,
+        "importPath": "ex01 nova lista",
+        "description": "ex01 nova lista",
+        "peekOfCode": "idade = int(input(\"Digite a idade de seu carro: \"))\nif idade <= 3:\n    print(\"Seu carro é novo\")\n    print(\"Isso é muito bom\")\nif idade >= 3:\n    print(\"Seu carro não é mais tão novo\")\n    print(\"Mas isso não é ruim não\")\nif idade > 8:\n    print(\"seu carro é muito velho\")    \n    print(\"isso é ruim\")",
+        "detail": "ex01 nova lista",
+        "documentation": {}
+    }
+]
